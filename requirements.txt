@@ -1,0 +1,5 @@
+jupyter
+ipython-sql
+sqlalchemy
+ipykernel
+prettytable = 0.7.2
