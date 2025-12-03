@@ -18,7 +18,7 @@ st.set_page_config(page_title="Healthcare Management System", layout="wide")
 
 # ===============================
 #   HELPER FUNCTIONS
-# ===============================
+
 def run_query(query, params=None):
     cursor = conn.cursor()
     if params:
